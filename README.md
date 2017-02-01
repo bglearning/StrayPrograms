@@ -14,3 +14,7 @@ Run `fetch_players.py` followed by `count_hits.py` and then `visualize.py`.
 ## SimpleNN
 
 A very basic Neural Network based on [this blog post](http://iamtrask.github.io/2015/07/12/basic-python-network/).
+
+## SimpleGradientDescent
+
+A very simple gradient descent implementation to solve a linear regression problem. Based on [this blog post](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/).
